@@ -4,3 +4,9 @@
 [submodule "coder/themes/hugo-coder"]
 	path = coder/themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "resume/hugo-theme-terminal"]
+	path = resume/hugo-theme-terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "resume/themes/terminal"]
+	path = resume/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
