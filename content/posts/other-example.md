@@ -1,7 +1,7 @@
 +++
-title = "Other Example"
+title = "Me"
 date = "2023-01-16T11:45:54-08:00"
-author = ""
+author = "Steven Mendez"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
@@ -10,5 +10,8 @@ description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
-color = "" #color from the theme settings
+color = "blue" #color from the theme settings
 +++
+
+
+<img src="assets/steven.JPG" alt="steven"/>
