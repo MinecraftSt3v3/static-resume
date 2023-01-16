@@ -1,0 +1,6 @@
+[submodule "resume/themes/spectral"]
+	path = resume/themes/spectral
+	url = https://github.com/sbruder/spectral
+[submodule "coder/themes/hugo-coder"]
+	path = coder/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
