@@ -14,4 +14,4 @@ color = "blue" #color from the theme settings
 +++
 
 
-<img src="assets/steven.JPG" alt="steven"/>
+<img src="~/assets/steven.JPG" alt="steven"/>
