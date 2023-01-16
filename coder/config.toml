@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "https://minecraftst3v3.github.io/static-resume/"
 title = "Steven Mendez"
 theme = "hugo-coder"
 languageCode = "en"
