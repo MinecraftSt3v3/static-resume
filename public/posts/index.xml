@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>https://minecraftst3v3.github.io/static-resume/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 10:09:54 -0800</lastBuildDate><atom:link href="https://minecraftst3v3.github.io/static-resume/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Example</title>
+      <link>https://minecraftst3v3.github.io/static-resume/posts/example/</link>
+      <pubDate>Mon, 16 Jan 2023 10:09:54 -0800</pubDate>
+      
+      <guid>https://minecraftst3v3.github.io/static-resume/posts/example/</guid>
+      <description>💫 About Me: 🌱 I&amp;rsquo;m currently working as an apprentice DevOps engineer at Liatrio 🇲🇽🇨🇴 Im Mexican and Colombian 🎓 Chico Satate class of 2023 Computer Information Systems, and minor in Business Administration 🌐 Socials: 💻 Tech Stack: 📊 GitHub Stats: ✍️ Random Dev Quote 💰 You can help me by Donating Buy Me a Coffee -&amp;gt; venmo: @Steven-Mendez-20)</description>
+      <content>&lt;h1 id=&#34;-about-me&#34;&gt;💫 About Me:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;🌱 I&amp;rsquo;m currently working as an apprentice DevOps engineer at Liatrio&lt;/li&gt;
+&lt;li&gt;🇲🇽🇨🇴 Im Mexican and Colombian&lt;/li&gt;
+&lt;li&gt;🎓 Chico Satate class of 2023&lt;/li&gt;
+&lt;li&gt;Computer Information Systems, and minor in Business Administration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-socials&#34;&gt;🌐 Socials:&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://linkedin.com/in/mendez-steven&#34;&gt;&lt;img src=&#34;https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;amp;logoColor=white&#34; alt=&#34;LinkedIn&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;-tech-stack&#34;&gt;💻 Tech Stack:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;amp;logo=c%2B%2B&amp;amp;logoColor=white&#34; alt=&#34;C++&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;amp;logo=c-sharp&amp;amp;logoColor=white&#34; alt=&#34;C#&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;amp;logo=css3&amp;amp;logoColor=white&#34; alt=&#34;CSS3&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&amp;amp;logo=dart&amp;amp;logoColor=white&#34; alt=&#34;Dart&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;amp;logo=html5&amp;amp;logoColor=white&#34; alt=&#34;HTML5&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&amp;amp;logo=go&amp;amp;logoColor=white&#34; alt=&#34;Go&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;amp;logo=javascript&amp;amp;logoColor=%23F7DF1E&#34; alt=&#34;JavaScript&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;amp;logo=markdown&amp;amp;logoColor=white&#34; alt=&#34;Markdown&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;amp;logo=python&amp;amp;logoColor=ffdd54&#34; alt=&#34;Python&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&amp;amp;logo=amazon-aws&amp;amp;logoColor=white&#34; alt=&#34;AWS&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;amp;logo=azure-devops&amp;amp;logoColor=white&#34; alt=&#34;Azure&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&amp;amp;logo=google-cloud&amp;amp;logoColor=white&#34; alt=&#34;Google Cloud&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;amp;logo=heroku&amp;amp;logoColor=white&#34; alt=&#34;Heroku&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;amp;logo=bootstrap&amp;amp;logoColor=white&#34; alt=&#34;Bootstrap&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&amp;amp;logo=django&amp;amp;logoColor=white&#34; alt=&#34;Django&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;amp;logo=react&amp;amp;logoColor=%2361DAFB&#34; alt=&#34;React&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;amp;logo=apache&amp;amp;logoColor=white&#34; alt=&#34;Apache&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&amp;amp;logo=jenkins&amp;amp;logoColor=white&#34; alt=&#34;Jenkins&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;amp;logo=nginx&amp;amp;logoColor=white&#34; alt=&#34;Nginx&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&amp;amp;logo=Amazon%20DynamoDB&amp;amp;logoColor=white&#34; alt=&#34;AmazonDynamoDB&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&amp;amp;logo=mariadb&amp;amp;logoColor=white&#34; alt=&#34;MariaDB&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&amp;amp;logo=sqlite&amp;amp;logoColor=white&#34; alt=&#34;SQLite&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;amp;logo=Canva&amp;amp;logoColor=white&#34; alt=&#34;Canva&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&amp;amp;logo=adobephotoshop&amp;amp;logoColor=white&#34; alt=&#34;Adobe Photoshop&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&amp;amp;logo=Adobe%20XD&amp;amp;logoColor=#FF61F6&#34; alt=&#34;Adobe XD&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&amp;amp;logo=kubernetes&amp;amp;logoColor=white&#34; alt=&#34;Kubernetes&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&amp;amp;logo=Trello&amp;amp;logoColor=white&#34; alt=&#34;Trello&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&amp;amp;logo=vagrant&amp;amp;logoColor=white&#34; alt=&#34;Vagrant&#34;&gt; &lt;img src=&#34;https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;amp;logo=docker&amp;amp;logoColor=white&#34; alt=&#34;Docker&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;-github-stats&#34;&gt;📊 GitHub Stats:&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api?username=MinecraftSt3v3&amp;amp;theme=highcontrast&amp;amp;hide_border=false&amp;amp;include_all_commits=true&amp;amp;count_private=false&#34; alt=&#34;&#34;&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;img src=&#34;https://github-readme-streak-stats.herokuapp.com/?user=MinecraftSt3v3&amp;amp;theme=highcontrast&amp;amp;hide_border=false&#34; alt=&#34;&#34;&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;a href=&#34;https://github.com/anuraghazra/github-readme-stats&#34;&gt;&lt;img src=&#34;https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;amp;layout=compact&amp;amp;theme=transparent&#34; alt=&#34;Top Langs&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-random-dev-quote&#34;&gt;✍️ Random Dev Quote&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://quotes-github-readme.vercel.app/api?type=vetical&amp;amp;theme=merko&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;-you-can-help-me-by-donating&#34;&gt;💰 You can help me by Donating&lt;/h2&gt;
+&lt;p&gt;Buy Me a Coffee -&amp;gt; venmo: @Steven-Mendez-20)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://visitcount.itsvg.in&#34;&gt;&lt;img src=&#34;https://visitcount.itsvg.in/api?id=MinecraftSt3v3&amp;amp;icon=2&amp;amp;color=8&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
