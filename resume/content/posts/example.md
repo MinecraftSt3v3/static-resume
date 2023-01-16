@@ -8,7 +8,7 @@ tags = ["", ""]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = True
+readingTime = true
 hideComments = false
 color = "" #color from the theme settings
 +++
